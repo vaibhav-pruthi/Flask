@@ -29,3 +29,10 @@ This is a simple **Flask-based To-Do web application** that lets users add, upda
 ```bash
 git clone https://github.com/vaibhav-pruthi/Flask.git
 cd Flask
+Flask/
+├── static/
+│   └── (CSS, JS files if any)
+├── templates/
+│   └── index.html
+├── app.py
+└── README.md
